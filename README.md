@@ -5,7 +5,8 @@
 - 1.hafta uygulamalari 
     - VisualCode Nedir?
     - Github kullanmak
-    - Markdown yazmak.
+    - Github profili düzenlemek.
+ 
 - 2.hafta uygulamalari 
 - 3.hafta uygulamalari 
 - 4.hafta uygulamalari 
