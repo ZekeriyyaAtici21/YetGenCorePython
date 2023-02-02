@@ -1,11 +1,11 @@
-## YetGenPythonCore
-
+## YetGenCorePython
 ### YetGen Python egitim süreci boyunca yapilan uygulamalari detaylıca not alınmıştır.
 
-- 1.hafta uygulamalari 
+- 1.hafta uygulamalari     
     - VisualCode Nedir?
-    - Github kullanmak
-    - Github profili düzenlemek.
+    - VsCode Kullanımı.
+    - Github Nedir?
+    - Github ReadMe oluşturmak.
  
 - 2.hafta uygulamalari 
 - 3.hafta uygulamalari 
