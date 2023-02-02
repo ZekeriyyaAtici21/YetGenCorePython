@@ -1,6 +1,6 @@
-# YetGenPythonCore1
+## YetGenPythonCore
 
-### Python egitiminin yapilan uygulamalari detaylica not alinmistir
+### YetGen Python egitim süreci boyunca yapilan uygulamalari detaylıca not alınmıştır.
 
 - 1.hafta uygulamalari 
     - VisualCode Nedir?
