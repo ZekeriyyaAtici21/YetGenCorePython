@@ -8,7 +8,7 @@
 - 2.hafta uygulamaları.
     - Degiskenler
     - Veri Türleri
-    - Fonksiyonlar
+    - Fonksiyonlar.
 - 3.hafta uygulamaları.
 - 4.hafta uygulamaları.
 - 5.hafta uygulamaları.
