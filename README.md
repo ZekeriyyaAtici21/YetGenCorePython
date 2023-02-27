@@ -10,6 +10,8 @@
     - Veri Türleri
     - Fonksiyonlar.
 - 3.hafta uygulamaları.
+    - Escape sequence. 
+    - Listeler.
 - 4.hafta uygulamaları.
 - 5.hafta uygulamaları.
 - 6.hafta uygulamaları.
