@@ -13,7 +13,13 @@
     - Escape sequence. 
     - Listeler.
 - 4.hafta uygulamaları.
+    - Sözlükler.
+    - Setler
+    - String Metotları.
 - 5.hafta uygulamaları.
+    - Comprehension.
+    - Fonksiyonlar.
+    - *args  ve **kwargs.
 - 6.hafta uygulamaları.
 - 7.hafta uygulamaları.
 - 8.hafta uygulamaları.
