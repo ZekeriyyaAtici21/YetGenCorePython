@@ -21,6 +21,9 @@
     - Fonksiyonlar.
     - *args  ve **kwargs.
 - 6.hafta uygulamaları.
+    - Modüller, Math Modülü.
+    - Göümülü Fonksiyonlar.
+    - Hata Yönetimi.
 - 7.hafta uygulamaları.
 - 8.hafta uygulamaları.
 - 9.hafta uygulamaları.
