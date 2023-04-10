@@ -25,7 +25,10 @@
     - Gömülü Fonksiyonlar.
     - Hata Yönetimi.
 - 7.hafta uygulamaları.
+    - Tekrar haftası.
 - 8.hafta uygulamaları.
+    - Dosya İşlemleri
+    - Nesne Tabanlı Programlama.
 - 9.hafta uygulamaları.
 - 10.hafta uygulamaları.
 - 11.hafta uygulamaları.
