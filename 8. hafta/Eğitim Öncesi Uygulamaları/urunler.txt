@@ -1,0 +1,32 @@
+adı : Ayakkabı
+fiyatı: 1200
+adı : samsung
+fiyatı: 15000
+adı : Ayakkabı
+fiyatı: 1200
+adı : samsung
+fiyatı: 15000
+adı : Ayakkabı
+fiyatı: 1200
+adı : samsung
+fiyatı: 15000
+adı : Ayakkabı
+fiyatı: 1200
+adı : samsung
+fiyatı: 15000
+adı : Ayakkabı
+fiyatı: 1200
+adı : samsung
+fiyatı: 15000
+adı : Ayakkabı
+fiyatı: 1200
+adı : samsung
+fiyatı: 15000
+adı : Ayakkabı
+fiyatı: 1200
+adı : samsung
+fiyatı: 15000
+adı : Ayakkabı
+fiyatı: 1200
+adı : samsung
+fiyatı: 15000
