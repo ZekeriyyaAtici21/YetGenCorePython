@@ -1,0 +1,14 @@
+Tue Apr 25 04:43:25 2023
+
+
+Tue Apr 25 04:46:27 2023
+elma,armut
+4,3
+Tue Apr 25 04:49:10 2023
+elma,armut
+4,6
+Tue Apr 25 04:49:42 2023
+elma,armut
+5,10
+Toplam : 142.5
+                    

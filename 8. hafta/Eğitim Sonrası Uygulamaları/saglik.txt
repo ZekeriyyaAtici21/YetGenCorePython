@@ -1,0 +1,6 @@
+Kullanýcý adý  Hasan Atýcý|nYas, Kilo, Boy : 22 96.0 180.0
+ Vücut kitle endeks : 0.0deger sonuclarý : ZayýfKayit tarihi Mon Apr 24 16:35:33 2023               
+Kullanýcý adý  Merve Karaaðaç|nYas, Kilo, Boy : 28 76.0 175.0
+ Vücut kitle endeks : 0.0deger sonuclarý : ZayýfKayit tarihi Mon Apr 24 16:35:52 2023               
+Kullanýcý adý  Mustafa Kara |nYas, Kilo, Boy : 34 103.0 184.0
+ Vücut kitle endeks : 0.0deger sonuclarý : ZayýfKayit tarihi Mon Apr 24 16:36:11 2023               
